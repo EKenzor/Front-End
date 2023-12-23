@@ -1,1 +1,1 @@
-# Beginner
+# Introduction to Java Programming (Beginner)
