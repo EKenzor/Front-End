@@ -1,1 +1,1 @@
-# Training
+# Beginner
